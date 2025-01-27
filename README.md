@@ -3,6 +3,10 @@
 
 This repository contains the UI design for Ocean Boundy, a stylish and user-friendly website designed using Canva. The website showcases a seamless and modern interface, tailored for users to explore a range of ocean-inspired products and services. Whether you're looking to create a stunning online presence or showcase your brand with a clean, professional design, this project demonstrates how Canva can be leveraged to create high-quality web layouts.
 
+# Screenshot
+![image](https://github.com/user-attachments/assets/6d23324b-2b17-4d7f-a1ef-4ca8693b02ca)
+
+
 # Key Features:
 
 Fully responsive UI design optimized for different screen sizes.
